@@ -4,7 +4,7 @@ class ConstList {
   String name;
   int rollNo;
 
-  ListName(int tileNo) {
+  listName(int tileNo) {
     return student[tileNo].name;
   }
 
